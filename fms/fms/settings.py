@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'fms.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'eshikhon_elearn',
+        'NAME': 'fms',
         'USER': 'root',
         "PASSWORD":'',
         "HOST":'localhost',
